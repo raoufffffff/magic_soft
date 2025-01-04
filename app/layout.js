@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Magig Soft",
+  title: "Magic Soft",
   description: "Un site spécialisé dans la vente de matériel numérique",
   keywords: "dz e-commarce website Algérie stor",
   image: "/logo.png", // Replace with the actual image URL
